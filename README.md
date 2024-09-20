@@ -7,4 +7,4 @@ I abandoned:
 
 ## Please note:
 
-English is my second language, that's why my repos are mixed with German/English. Sorry for that.
+My mother tongue is not English, that's why my repos are mixed with German/English. Sorry for that.

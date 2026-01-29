@@ -1,9 +1,10 @@
 # Hi there 👋
 
-I am currently working on [crepes-interface](https://www.github.com/theWasweisich/crepes-interface)
+I am currently working on something else
 
 I abandoned:
 - [supermarktsystem](https://github.com/theWasweisich/supermarktsystem/)
+- [crepes-interface](https://www.github.com/theWasweisich/crepes-interface)
 
 ## Please note:
 
